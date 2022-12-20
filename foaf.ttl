@@ -20,7 +20,7 @@
   foaf:homepage <https://raw.githubusercontent.com/MarkoS2900/vbslab5/main/foaf.ttl> ;
   foaf:phone <tel:+38975240960> ;
   foaf:workplaceHomepage <https://www.endava.com/> ;
-  foaf:workInfoHomepage <https://raw.githubusercontent.com/MarkoS2900/vbslab5/main/Software Engineer> ;
+  foaf:workInfoHomepage <https://raw.githubusercontent.com/MarkoS2900/vbslab5/main/Software_Engineer> ;
   foaf:knows [
     a foaf:Person ;
     foaf:name "Petar Partaloski" ;
